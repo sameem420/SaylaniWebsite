@@ -27,11 +27,13 @@ body {
 .social-links > a > img{
     margin: 5px;
 }
-ul > li > .active, a:hover, a:active  {
+.header-nav > li > .active, a:hover, a:active  {
     border-radius: 20px;
     color: white !important;
-    background-color: #316DC3 !important;
-    
+    background-color: #316DC3 !important; 
+}
+#image-slider > a, a:hover {
+    background-color: lightgray;
 }
 .header-nav {
     padding: 5px;
