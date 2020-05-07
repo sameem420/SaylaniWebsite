@@ -1,4 +1,4 @@
-# WEB-SaylaniWebsite
+# SaylaniWebsite
 Saylani responsive home page designed in Bootstrap (HTML &amp; CSS)
 
 DEMO LINK # 1:-
