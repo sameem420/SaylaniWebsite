@@ -3,7 +3,7 @@ Saylani responsive home page designed in Bootstrap (HTML &amp; CSS)
 
 DEMO LINK # 1:-
 
-https://sameem420.github.io/WEB-SaylaniWebsite/
+https://sameem420.github.io/SaylaniWebsite/
 
 DEMO LINK # 2:-
 
